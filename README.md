@@ -13,6 +13,8 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
   - [Screenshot](#screenshot)
     ![](./easybank-landingpage.png)
   - [Links](#links)
+    https://stupefied-meitner-839f0d.netlify.app/
+    https://github.com/Jasoniyi/easybank-landing-page
 
 - [My process](#my-process)
 
